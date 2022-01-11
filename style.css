@@ -1,0 +1,22 @@
+body{
+    overflow-x: hidden;
+}
+
+.container{
+    padding: 5rem;
+    text-align: center;
+    color: blueviolet;
+}
+
+h1{
+    margin-bottom: 1rem;
+}
+
+.btn{
+    margin-top: 1rem;
+    display: block;
+    padding: 0.365rem 2rem;
+    color: white;
+    background-color: blueviolet;
+    border: none;
+}
